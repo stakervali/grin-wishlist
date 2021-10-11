@@ -8,14 +8,14 @@ This wishlist is compiled from [Planning: Post 5.0.0 wish list](https://github.c
 2. [multi-sig*](https://github.com/stakervali/grin-wishlist/issues/2)
 3. [Wallet backend improvements]()
 4. [libsecp fork update]()
-5. [Preventing chain corruption*]()
+5. [Preventing chain corruption*](https://github.com/stakervali/grin-wishlist/issues/6)
 6. [safe cancel*]()
 
 
 ## Important
 
 1. [Tor support for nodes*]()
-2. [light node*]()
+2. [light node*](https://github.com/stakervali/grin-wishlist/issues/7)
 3. [testnet exchange/ making it easier for exchange integrations](https://github.com/stakervali/grin-wishlist/issues/4)
 4. [payjoins*]()
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
@@ -34,5 +34,6 @@ This wishlist is compiled from [Planning: Post 5.0.0 wish list](https://github.c
 8. [anchors*]
 9. [bulletproofs+*]()
 10. [NRD activation*]()
+11. [Display slatepacks as QR codes in CLI]
 
 * == requires RFC to be accepted
