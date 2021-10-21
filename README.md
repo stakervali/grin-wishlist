@@ -7,9 +7,8 @@ This wishlist is compiled from [Planning: Post 5.0.0 wish list](https://github.c
 1. [PIBD - (faster and more robust syncing strategy)](https://github.com/stakervali/grin-wishlist/issues/6)
 2. [multi-sig*](https://github.com/stakervali/grin-wishlist/issues/2)
 3. Wallet backend improvements
-4. libsecp fork update
-5. [Preventing chain corruption*](https://github.com/stakervali/grin-wishlist/issues/6)
-6. safe cancel*
+4. libsecp fork update 
+5. safe cancel*
 
 
 ## Important
