@@ -4,7 +4,7 @@ This wishlist is compiled from [Planning: Post 5.0.0 wish list](https://github.c
 
 ## Criticals / Must Have
 
-1. PIBD
+1. [PIBD - (faster and more robust syncing strategy)](https://github.com/stakervali/grin-wishlist/issues/6)
 2. [multi-sig*](https://github.com/stakervali/grin-wishlist/issues/2)
 3. Wallet backend improvements
 4. libsecp fork update
