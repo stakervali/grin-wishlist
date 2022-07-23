@@ -33,6 +33,6 @@ This wishlist is compiled from [Planning: Post 5.0.0 wish list](https://github.c
 8. anchors*
 9. bulletproofs+*
 10. NRD activation*
-11. [Display slatepacks as QR codes in CLI](https://github.com/stakervali/grin-wishlist/issues/12)
+~~11. [Display slatepacks as QR codes in CLI](https://github.com/stakervali/grin-wishlist/issues/12)~~
 
 * == requires RFC to be accepted
